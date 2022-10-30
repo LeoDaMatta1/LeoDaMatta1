@@ -1,0 +1,5 @@
+- 👋 Olá, Eu sou Leonardo Augusto Da Matta
+- 👀 Amo Designer e Programação, e meu sonho é ser desenvolvedor de Jogos
+- 🌱 Estou aprendendo Programação Básica
+- 💞️ E no momento estou criando o Jogos "Cat's Odyysey", no qual será meu Projeto de TCC
+- 📫 Sejá bem-Vindo...
